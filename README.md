@@ -1,18 +1,14 @@
-<!-- 타이틀 부분 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=304&color=gradient&text=JAMMY%F0%9F%90%AD&reversal=false&fontSize=75&animation=twinkling" alt="Capsule Render"/>
 </div>
 
-<!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jammy0903&layout=compact" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=jammy0903&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
-<!-- 내용 부분: Tech Stack -->
-✨ Tech Stack ✨</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <h3 align="center">
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -21,10 +17,6 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
-<!-- 추가적인 섹션들 -->
-<!-- 예시: Studying, Tools, Contact 등의 섹션을 추가 -->
-
-<!-- 내용 부분: Contact -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@jammy0903">

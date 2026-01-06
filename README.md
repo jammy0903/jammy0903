@@ -6,9 +6,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jammy0903&layout=donut&hide_border=true" height="180" alt="Top Languages" />
-  
   <img src="https://github-readme-stats.vercel.app/api?username=jammy0903&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-</div>>
+</div>
 
 <br/>
 
@@ -26,14 +25,17 @@
 
 <div align="center">
   <h3>📫 Contact 📫</h3>
-  <a href="https://velog.io/@jammy0903">
+  
+  <a href="https://velog.io/@jammy0903" target="_blank">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
   </a>
   &nbsp;
+  
   <a href="mailto:fuso93@yonsei.ac.kr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
+  
   <a href="mailto:fuso3367@kakao.com">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakao&logoColor=black" alt="KakaoTalk"/>
   </a>

@@ -10,7 +10,11 @@
 </div>
 
 <br/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jammy0903&layout=donut&hide_border=true" height="180" alt="Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=jammy0903&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+</div>
 <div align="center">
   <h3>✨ Tech Stack ✨</h3>
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>

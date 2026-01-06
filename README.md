@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jammy0903&layout=compact" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jammy0903&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jammy0903&amp;layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jammy0903&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats"/>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>

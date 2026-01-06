@@ -31,12 +31,8 @@
   </a>
   &nbsp;
   
-  <a href="mailto:fuso93@yonsei.ac.kr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="l89192164@gmail.com" alt="Email"/>
   &nbsp;
   
-  <a href="mailto:fuso3367@kakao.com">
-    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakao&logoColor=black" alt="KakaoTalk"/>
-  </a>
+  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakao&logoColor=black" title="fuso93" alt="KakaoTalk"/>
 </div>

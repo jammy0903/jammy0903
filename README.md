@@ -4,11 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jammy0903&layout=donut&hide_border=true" height="180" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jammy0903&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-</div>
-
 <br/>
 
 <div align="center">

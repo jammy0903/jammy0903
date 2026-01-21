@@ -3,10 +3,20 @@
 </div>
 
 <br/>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Jammy!+%F0%9F%90%AD;I'm+studying+C+%26+Python.;Welcome+to+my+Github!" alt="Typing SVG" />
-  </a>
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Jammy!+%F0%9F%90%AD;I'm+studying+C+%26+Python.;Welcome+to+my+Github!" alt="Typing SVG" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jammy0903&layout=compact&theme=transparent&hide_border=true&langs_count=5" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 </div>
 <br/>
 

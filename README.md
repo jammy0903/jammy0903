@@ -9,7 +9,7 @@
     <tr>
       <td width="50%" align="center" valign="center">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Jammy!+%F0%9F%90%AD;I'm+studying+C+%26+Python.;Welcome+to+my+Github!" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Hi+my+puppy+is+Jammy!+%F0%9F%90%AD;and+I'm+jam1;and+jam0+is+president" alt="Typing SVG" />
         </a>
       </td>
       <td width="50%" align="center" valign="center">
@@ -18,6 +18,7 @@
     </tr>
   </table>
 </div>
+
 <br/>
 
 <div align="center">

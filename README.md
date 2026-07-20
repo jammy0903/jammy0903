@@ -44,5 +44,5 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="l89192164@gmail.com" alt="Email"/>
   &nbsp;
   
-  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakao&logoColor=black" title="fuso93" alt="KakaoTalk"/>
+<img src="https://img.shields.io/badge/KakaoTalk-fuso93-FFCD00?style=for-the-badge&logo=kakao&logoColor=black" alt="KakaoTalk: fuso93"/>
 </div>

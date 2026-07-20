@@ -13,7 +13,7 @@
         </a>
       </td>
       <td width="50%" align="center" valign="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jammy0903&layout=compact&theme=transparent&hide_border=true&langs_count=5" alt="Top Langs" />
+        <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jammy0903&layout=compact&theme=transparent&hide_border=true&langs_count=5](https://github-readme-stats-dusky-six-40.vercel.app/api/top-langs/?username=jammy0903&layout=compact&theme=transparent&hide_border=true&langs_count=5)" alt="Top Langs" />
       </td>
     </tr>
   </table>

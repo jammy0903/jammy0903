@@ -41,8 +41,10 @@
   </a>
   &nbsp;
   
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="l89192164@gmail.com" alt="Email"/>
+  <a href="mailto:l89192164@gmail.com">
+    <img src="https://img.shields.io/badge/l89192164@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   &nbsp;
   
-<img src="https://img.shields.io/badge/KakaoTalk-fuso93-FFCD00?style=for-the-badge&logo=kakao&logoColor=black" alt="KakaoTalk: fuso93"/>
+  <img src="https://img.shields.io/badge/KakaoTalk-fuso93-FFCD00?style=for-the-badge&logo=kakao&logoColor=black" alt="KakaoTalk: fuso93"/>
 </div>
